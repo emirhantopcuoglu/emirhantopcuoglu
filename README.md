@@ -121,9 +121,7 @@ fun_fact: "I believe in writing code that tells a story"
   <i>I'm always open to collaborating on interesting backend projects and innovative ideas.</i>
 </p>
 
-<a href="mailto:emirhantopcuoglu386@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20me%20a%20line-e6edf3?style=for-the-badge&logo=gmail&logoColor=0d1117" />
-</a>
+&nbsp; `emirhantopcuoglu386@gmail.com`
 
 <br/><br/>
 
