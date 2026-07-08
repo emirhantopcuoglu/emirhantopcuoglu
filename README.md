@@ -12,6 +12,9 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
+  <a href="https://emirhantopcuoglu.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://linkedin.com/in/emirhantopcuoglu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
